@@ -1,3 +1,3 @@
 # MusicPlayer
 
-Made my own little music player! Trying Html Audio API...
+Made my own little music player! Trying Html Audio API
